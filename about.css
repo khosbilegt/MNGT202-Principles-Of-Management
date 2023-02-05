@@ -42,3 +42,7 @@
      max-width: 400px;
      margin-top: 30px;
 }
+#finisher {
+     margin-top: 100px;
+     visibility: none;
+}
