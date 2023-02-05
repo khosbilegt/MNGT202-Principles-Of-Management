@@ -7,6 +7,7 @@
      column-gap: 30px;
      justify-content: center;
      width: 100vw;
+     flex-wrap: wrap;
 }
 .card {
      background-color: #204534;
@@ -36,7 +37,8 @@
 }
 
 .important-cont {
-     text-align: center;
+     display: flex;
+     justify-content: center;
 }
 .important-cont img {
      max-width: 400px;
