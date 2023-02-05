@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+.card-holder {
+     margin-top: 30px;
+     display: flex;
+     flex-direction: row;
+     column-gap: 30px;
+     justify-content: center;
+     width: 100vw;
+}
+.card {
+     background-color: #204534;
+     height: 200px;
+     width: 200px;
+     border-radius: 10px;
+     color: #CBA669;
+     text-align: center;
+     font-family: Montserrat, sans-serif;
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+}
+
+.explanation {
+     margin-top: 10px;
+     font-size: 20px;
+}
+.emphasis {
+     font-size: 30px;
+}
+.bolded {
+     text-align: center;
+     font-family: Montserrat, sans-serif;
+     font-size: 30px;
+     margin-top: 30px;
+}
+
+img {
+     max-width: 400px;
+     margin-top: 30px;
+}
