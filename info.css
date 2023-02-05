@@ -1,7 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
 .info ul {
-     background-color: red;
+     margin-top: 30px;
+     margin-left: 10%;
+     width: 80%;
+     text-align: left;
+     font-family: Montserrat, sans-serif;
+}
+
+.info li:not(:first-child) {
+     margin-top: 30px;
 }
 
 .info li {
-     text-align: center;
+
 }
