@@ -45,6 +45,11 @@
      max-width: 400px;
      margin-top: 30px;
 }
+.full-img { 
+     margin-left: 12.5vw;
+     width: 50vw;
+}
+
 #finisher {
      margin-top: 100px;
      color: #F8F4EB;
