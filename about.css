@@ -67,3 +67,10 @@
 iframe {
      margin-top: 20px;
 }
+
+@media only screen and (max-width: 800px) {
+     .full-img {
+          margin-left: 0;
+          width: 100vw;
+     }
+   }
