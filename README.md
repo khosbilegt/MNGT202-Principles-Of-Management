@@ -1,7 +1,4 @@
 # TousLesJours
 A website made as an alternative to a PPT file for a Management course.
 
-> [!CAUTION]
->
-> * Testing 1
-> * esting 1
+It is currently deployed on Github Pages at [https://khosbilegt.github.io/TousLesJours/](https://khosbilegt.github.io/TousLesJours/)
